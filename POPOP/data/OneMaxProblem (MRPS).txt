@@ -1,0 +1,12 @@
++ Single Point Crossover:
+--> Problem size 10: 19.4(4.1)
+--> Problem size 20: 41.8(6.23)
+--> Problem size 40: 127.2(16.35)
+--> Problem size 80: 370.6(81.99)
+--> Problem size 160: 1529.8(333.86)
++ Uniform Crossover:
+--> Problem size 10: 14.0(2.97)
+--> Problem size 20: 21.4(3.1)
+--> Problem size 40: 35.4(6.81)
+--> Problem size 80: 56.2(7.45)
+--> Problem size 160: 87.6(8.71)

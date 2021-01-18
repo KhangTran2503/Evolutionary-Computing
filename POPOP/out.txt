@@ -1,0 +1,288 @@
+************************* OneMax_OnePoint ****************************
+N upper:	32	MRPS:	18
+N upper:	16	MRPS:	14
+N upper:	16	MRPS:	16
+N upper:	32	MRPS:	18
+N upper:	32	MRPS:	26
+N upper:	32	MRPS:	22
+N upper:	32	MRPS:	20
+N upper:	32	MRPS:	20
+N upper:	32	MRPS:	26
+N upper:	16	MRPS:	14
+Problem Size:	10
+Number of evaluation Mean(std):	249.2(45.0748)
+MRPS Mean(std)                :	19.4(4.32563)
+
+N upper:	32	MRPS:	32
+N upper:	64	MRPS:	46
+N upper:	64	MRPS:	40
+N upper:	64	MRPS:	46
+N upper:	64	MRPS:	38
+N upper:	64	MRPS:	40
+N upper:	32	MRPS:	32
+N upper:	64	MRPS:	50
+N upper:	64	MRPS:	44
+N upper:	64	MRPS:	50
+Problem Size:	20
+Number of evaluation Mean(std):	888(124.482)
+MRPS Mean(std)                :	41.8(6.56252)
+
+N upper:	256	MRPS:	132
+N upper:	128	MRPS:	110
+N upper:	256	MRPS:	162
+N upper:	256	MRPS:	136
+N upper:	128	MRPS:	110
+N upper:	256	MRPS:	138
+N upper:	128	MRPS:	112
+N upper:	256	MRPS:	134
+N upper:	256	MRPS:	130
+N upper:	128	MRPS:	108
+Problem Size:	40
+Number of evaluation Mean(std):	4142.9(439.883)
+MRPS Mean(std)                :	127.2(17.2356)
+
+N upper:	512	MRPS:	312
+N upper:	512	MRPS:	320
+N upper:	512	MRPS:	304
+N upper:	512	MRPS:	418
+N upper:	1024	MRPS:	546
+N upper:	512	MRPS:	466
+N upper:	512	MRPS:	332
+N upper:	512	MRPS:	376
+N upper:	256	MRPS:	256
+N upper:	512	MRPS:	376
+Problem Size:	80
+Number of evaluation Mean(std):	18437.5(3639.58)
+MRPS Mean(std)                :	370.6(86.4256)
+
+N upper:	2048	MRPS:	1324
+N upper:	4096	MRPS:	2178
+N upper:	2048	MRPS:	1152
+N upper:	2048	MRPS:	1402
+N upper:	4096	MRPS:	2082
+N upper:	2048	MRPS:	1466
+N upper:	2048	MRPS:	1212
+N upper:	2048	MRPS:	1278
+N upper:	2048	MRPS:	1534
+N upper:	2048	MRPS:	1670
+Problem Size:	160
+Number of evaluation Mean(std):	112220(22495.4)
+MRPS Mean(std)                :	1529.8(351.924)
+
+
+************************* OneMax_Uniform ****************************
+N upper:	32	MRPS:	18
+N upper:	16	MRPS:	10
+N upper:	16	MRPS:	14
+N upper:	16	MRPS:	16
+N upper:	16	MRPS:	10
+N upper:	16	MRPS:	16
+N upper:	32	MRPS:	18
+N upper:	16	MRPS:	14
+N upper:	16	MRPS:	10
+N upper:	16	MRPS:	14
+Problem Size:	10
+Number of evaluation Mean(std):	156.8(36.8414)
+MRPS Mean(std)                :	14(3.12694)
+
+N upper:	32	MRPS:	24
+N upper:	32	MRPS:	18
+N upper:	32	MRPS:	20
+N upper:	32	MRPS:	22
+N upper:	32	MRPS:	18
+N upper:	16	MRPS:	16
+N upper:	32	MRPS:	24
+N upper:	32	MRPS:	24
+N upper:	32	MRPS:	26
+N upper:	32	MRPS:	22
+Problem Size:	20
+Number of evaluation Mean(std):	374.8(62.4567)
+MRPS Mean(std)                :	21.4(3.27278)
+
+N upper:	64	MRPS:	46
+N upper:	32	MRPS:	28
+N upper:	32	MRPS:	32
+N upper:	64	MRPS:	42
+N upper:	32	MRPS:	24
+N upper:	64	MRPS:	42
+N upper:	64	MRPS:	42
+N upper:	32	MRPS:	32
+N upper:	64	MRPS:	34
+N upper:	32	MRPS:	32
+Problem Size:	40
+Number of evaluation Mean(std):	899.9(180.105)
+MRPS Mean(std)                :	35.4(7.18331)
+
+N upper:	64	MRPS:	60
+N upper:	64	MRPS:	48
+N upper:	64	MRPS:	50
+N upper:	64	MRPS:	54
+N upper:	128	MRPS:	66
+N upper:	64	MRPS:	46
+N upper:	128	MRPS:	66
+N upper:	64	MRPS:	62
+N upper:	64	MRPS:	62
+N upper:	64	MRPS:	48
+Problem Size:	80
+Number of evaluation Mean(std):	2066.5(261.936)
+MRPS Mean(std)                :	56.2(7.85706)
+
+N upper:	128	MRPS:	72
+N upper:	128	MRPS:	78
+N upper:	128	MRPS:	94
+N upper:	128	MRPS:	82
+N upper:	128	MRPS:	84
+N upper:	128	MRPS:	86
+N upper:	128	MRPS:	92
+N upper:	128	MRPS:	88
+N upper:	128	MRPS:	98
+N upper:	128	MRPS:	102
+Problem Size:	160
+Number of evaluation Mean(std):	4611.8(444.279)
+MRPS Mean(std)                :	87.6(9.17969)
+
+
+************************* Trap5_OnePoint ****************************
+N upper:	128	MRPS:	68
+N upper:	128	MRPS:	74
+N upper:	32	MRPS:	32
+N upper:	128	MRPS:	94
+N upper:	128	MRPS:	68
+N upper:	64	MRPS:	62
+N upper:	128	MRPS:	82
+N upper:	128	MRPS:	84
+N upper:	128	MRPS:	84
+N upper:	32	MRPS:	32
+Problem Size:	10
+Number of evaluation Mean(std):	1073.6(337.268)
+MRPS Mean(std)                :	68(21.208)
+
+N upper:	256	MRPS:	142
+N upper:	256	MRPS:	194
+N upper:	256	MRPS:	168
+N upper:	256	MRPS:	182
+N upper:	512	MRPS:	260
+N upper:	128	MRPS:	128
+N upper:	128	MRPS:	112
+N upper:	256	MRPS:	154
+N upper:	256	MRPS:	168
+N upper:	256	MRPS:	174
+Problem Size:	20
+Number of evaluation Mean(std):	3941.4(955.695)
+MRPS Mean(std)                :	168.2(40.7971)
+
+N upper:	512	MRPS:	412
+N upper:	512	MRPS:	472
+N upper:	1024	MRPS:	662
+N upper:	512	MRPS:	448
+N upper:	1024	MRPS:	642
+N upper:	512	MRPS:	376
+N upper:	1024	MRPS:	548
+N upper:	1024	MRPS:	532
+N upper:	512	MRPS:	432
+N upper:	512	MRPS:	470
+Problem Size:	40
+Number of evaluation Mean(std):	17647.7(3167.29)
+MRPS Mean(std)                :	499.4(95.3732)
+
+N upper:	2048	MRPS:	1436
+N upper:	2048	MRPS:	1586
+N upper:	2048	MRPS:	1686
+N upper:	2048	MRPS:	1272
+N upper:	2048	MRPS:	1650
+N upper:	2048	MRPS:	1610
+N upper:	1024	MRPS:	1024
+N upper:	2048	MRPS:	1926
+N upper:	2048	MRPS:	1666
+N upper:	4096	MRPS:	2260
+Problem Size:	80
+Number of evaluation Mean(std):	85309.4(16738.5)
+MRPS Mean(std)                :	1611.6(336.87)
+
+N upper:	8192	MRPS:	5560
+N upper:	8192	MRPS:	5184
+N upper:	8192	MRPS:	5710
+N upper:	8192	MRPS:	5852
+N upper:	8192	MRPS:	6662
+Fail!
+Fail!
+Fail!
+N upper:	8192	MRPS:	7970
+N upper:	8192	MRPS:	5478
+Problem Size:	160
+Number of evaluation Mean(std):	-1(0)
+MRPS Mean(std)                :	-1(0)
+
+
+************************* Trap5_Uniform ****************************
+N upper:	256	MRPS:	176
+N upper:	256	MRPS:	220
+N upper:	256	MRPS:	192
+N upper:	128	MRPS:	128
+N upper:	512	MRPS:	264
+N upper:	256	MRPS:	152
+N upper:	256	MRPS:	184
+N upper:	512	MRPS:	322
+N upper:	512	MRPS:	290
+N upper:	256	MRPS:	232
+Problem Size:	10
+Number of evaluation Mean(std):	5914.7(1651.57)
+MRPS Mean(std)                :	216(61.7594)
+
+N upper:	4096	MRPS:	3936
+N upper:	4096	MRPS:	3960
+N upper:	8192	MRPS:	4328
+N upper:	8192	MRPS:	5242
+N upper:	8192	MRPS:	5768
+N upper:	8192	MRPS:	4456
+N upper:	4096	MRPS:	3904
+N upper:	8192	MRPS:	5722
+N upper:	4096	MRPS:	4024
+N upper:	4096	MRPS:	3688
+Problem Size:	20
+Number of evaluation Mean(std):	354791(60009.2)
+MRPS Mean(std)                :	4502.8(784.145)
+
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Problem Size:	40
+Number of evaluation Mean(std):	-1(0)
+MRPS Mean(std)                :	-1(0)
+
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Problem Size:	80
+Number of evaluation Mean(std):	-1(0)
+MRPS Mean(std)                :	-1(0)
+
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Fail!
+Problem Size:	160
+Number of evaluation Mean(std):	-1(0)
+MRPS Mean(std)                :	-1(0)
+
+

@@ -1,0 +1,12 @@
+Rastrigin:
+	Pop_size: 128  p-value: 5.020231391977157e-05
+	Pop_size: 256  p-value: 1.5874403969397484e-06
+	Pop_size: 512  p-value: 6.97584240860575e-10
+	Pop_size: 1024  p-value: 1.124887413321335e-05
+	Pop_size: 2048  p-value: 3.9446030469181114e-05
+Rosenbrock:
+	Pop_size: 128  p-value: 0.15142395062488653
+	Pop_size: 256  p-value: 0.1709782182235601
+	Pop_size: 512  p-value: 0.17222349032980502
+	Pop_size: 1024  p-value: 0.9198700616898501
+	Pop_size: 2048  p-value: 1.2930384781915889e-05

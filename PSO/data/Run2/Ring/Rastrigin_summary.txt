@@ -1,0 +1,5 @@
+Problem Size: 128	Mean Fitness: 5.57177	Std Fitness: 1.881
+Problem Size: 256	Mean Fitness: 4.08611	Std Fitness: 1.39252
+Problem Size: 512	Mean Fitness: 3.3473	Std Fitness: 1.27346
+Problem Size: 1024	Mean Fitness: 4.46645	Std Fitness: 1.15347
+Problem Size: 2048	Mean Fitness: 5.04597	Std Fitness: 1.49833
